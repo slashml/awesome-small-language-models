@@ -99,6 +99,7 @@ For training, GPU memory requirements are typically higher. Using techniques lik
 
 ## Community Projects
 
+- [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on the MIPS R4300i CPU at 60 tok/s. Pushes small language models to the extreme — a Zelda-style dungeon crawler with AI NPCs on 1996 console hardware (4 MB RAM, 93.75 MHz).
 - [Add your awesome community projects here!]
 
 
