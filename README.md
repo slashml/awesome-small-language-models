@@ -28,6 +28,8 @@ A curated list of awesome resources, tools, and projects related to small langua
 
 ## Frameworks and Tools
 
+- [OneComp](https://github.com/FujitsuResearch/OneCompression) — Fujitsu PTQ pipeline.
+
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0
 - [Peft](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning (PEFT) methods
 - [Periflow](https://github.com/periflow/periflow) - A framework for deploying large language models
