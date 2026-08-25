@@ -35,6 +35,7 @@ A curated list of awesome resources, tools, and projects related to small langua
 - [TensorFlow Lite](https://www.tensorflow.org/lite) - A set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) - Cross-platform, high performance ML inferencing and training accelerator
 - [DeepFabric](https://github.com/always-further/deepfabric) - A framework generating high-quality synthetic data for training and evaluating small language models
+- [QSELM](https://github.com/shyringo/cpu-native-lm-train) - An experimental 34.1M-parameter CPU-native sparse language model and training runtime, measured at 215,771 token/s (8,529x the fastest measured official Qwen graph on the same i5-1340P), with sealed long-context QA and persistent agent-memory evaluations. Maintained by the contributor.
 
 ## Fine-tuning Techniques
 
