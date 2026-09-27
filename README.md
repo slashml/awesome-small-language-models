@@ -99,7 +99,7 @@ For training, GPU memory requirements are typically higher. Using techniques lik
 
 ## Community Projects
 
-- [Add your awesome community projects here!]
+- [jevos](https://github.com/feder-cr/jev) - Open-source (MIT), CPU-only 1B yes/no decision model (a 24-to-17-layer MiniCPM5-1B cut, GGUF q4_k_m, 619 MB) served over a Jev-compatible HTTP API
 
 
 ## Contributing
