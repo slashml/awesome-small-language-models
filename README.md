@@ -25,6 +25,7 @@ A curated list of awesome resources, tools, and projects related to small langua
 - [FLAN-T5 Small](https://huggingface.co/google/flan-t5-small) - A smaller version of the FLAN-T5 model
 - [DistilGPT2](https://huggingface.co/distilgpt2) - A distilled version of GPT-2
 - [BERT-Mini](https://huggingface.co/prajjwal1/bert-mini) - A smaller BERT model with 4 layers
+- [Jebadiah 4B and 9B](https://huggingface.co/collections/frontier-infra/jebadiah-open-system-one-decision-models-6ab80765ddd3fa0b3eba5213) - Open decision models that return a probability for each option instead of generating text
 
 ## Frameworks and Tools
 
