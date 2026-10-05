@@ -35,6 +35,7 @@ A curated list of awesome resources, tools, and projects related to small langua
 - [TensorFlow Lite](https://www.tensorflow.org/lite) - A set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) - Cross-platform, high performance ML inferencing and training accelerator
 - [DeepFabric](https://github.com/always-further/deepfabric) - A framework generating high-quality synthetic data for training and evaluating small language models
+- [DecisionTune](https://github.com/decision-tune/decision-tune) - A 395M decision model and Python package that picks one option from a list, or gives an uncalibrated P(yes) score, on a laptop CPU
 
 ## Fine-tuning Techniques
 
