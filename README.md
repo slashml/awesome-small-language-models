@@ -99,7 +99,7 @@ For training, GPU memory requirements are typically higher. Using techniques lik
 
 ## Community Projects
 
-- [Add your awesome community projects here!]
+- [MICA (Minimal Inference Cellular Automaton)](https://github.com/Vovala14/Mica-Ai) - Experimental language models using learned integer-rule cellular automata: byte-level Ember and word-level Flame-W, with research reports and CPU inference. Non-commercial research license.
 
 
 ## Contributing
