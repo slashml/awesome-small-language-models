@@ -99,6 +99,10 @@ For training, GPU memory requirements are typically higher. Using techniques lik
 
 ## Community Projects
 
+- [Kev-4B GGUF](https://huggingface.co/turintech/Kev-4B-Artemis-GGUF) - TurinTech conversion of Jared Palmer's decision model for local inference
+- [Gemma 4 E4B GGUF](https://huggingface.co/turintech/gemma-4-E4B-it-Artemis-GGUF) - TurinTech text-only conversion of Google's QAT checkpoint for llama.cpp
+- [Gemma 4 E2B GGUF](https://huggingface.co/turintech/gemma-4-E2B-it-Artemis-GGUF) - TurinTech text-only conversion of Google's QAT checkpoint for llama.cpp
+
 - [Add your awesome community projects here!]
 
 
