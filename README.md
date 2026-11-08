@@ -73,6 +73,7 @@ For training, GPU memory requirements are typically higher. Using techniques lik
   - [ONNX Runtime](https://github.com/microsoft/onnxruntime)
   - [TensorRT](https://developer.nvidia.com/tensorrt)
   - [OpenVINO](https://github.com/openvinotoolkit/openvino)
+  - [Kapitsa](https://github.com/nace-ai/kapitsa)
 
 ## Applications and Use Cases
 
